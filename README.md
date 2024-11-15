@@ -26,24 +26,6 @@ My name is Lancelot (yeah, it's my real name!). I'm 23 years old, speaks fluent 
 
   <h3 align="center">You'll succeed in life and be the best of yourself the day you'll find the field you're really passionate about, so don't loose your motivation : hard work is the key</h3>
   
-Here's some of my fields of studies :
-* Theoretical statistics & probabilities & mathematics
-* Coding and app developpement
-* Microeconomics - Macroeconomics - Finance
-* Dive into the main difference between Julia and other coding languages like Python, C++ and R to show the strengths and advantages of Julia. 
-
-Also, i have some non-scholar competences. Here's some of them :
-* Clothes buying, stylist for me and other people
-* Car / Motorcycle / Bike mechanics (for example : i can change distribution chain)
-* Computer hardware repairing
-
-And of course, i also have professionnal experiences in summer :
-* Factory chain production worker
-* Postman at bicycle
-* Worker in a bakery
-
-## My main projects
-
 ## Codes and apps i can handle :
 
 * ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -51,5 +33,9 @@ And of course, i also have professionnal experiences in summer :
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 * ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+* ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white))
+* ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+* ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+* ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ## My other experiences
